@@ -1,1 +1,3 @@
-# analyze_ab_test_results_udacity
+# Analyze A/B Test Results
+
+This is a project of Udacity's Data Analyst Nanodegree.
